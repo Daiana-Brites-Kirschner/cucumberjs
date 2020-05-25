@@ -1,0 +1,15 @@
+{
+  "name": "prato-do-dia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": ["nodejs", "cucumberjs", "bdd", "qaninja", "javascript"],
+  "author": "Daiana Brites",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
